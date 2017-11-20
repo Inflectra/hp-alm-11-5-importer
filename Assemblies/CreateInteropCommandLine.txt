@@ -1,0 +1,2 @@
+cd "C:\Subversion\Projects\SpiraTeam Add Ons\Trunk\Importers\HP ALM 11 Importer\Assemblies"
+tlbimp /out:Interop.HP.ALM.dll /namespace:HP.ALM /asmversion:11.5.0.0 OTAClient.dll 
